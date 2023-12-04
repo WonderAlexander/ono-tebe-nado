@@ -1,0 +1,12 @@
+.underline:after {
+    content: '';
+    display: block;
+    background-color: #000;
+    width: 100%;
+    height: 1px;
+    margin-top: 1px;
+}
+
+.mr_b {
+    margin-bottom: 25px;
+}
