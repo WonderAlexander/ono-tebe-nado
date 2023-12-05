@@ -1,8 +1,8 @@
 /* место для вашего кода */
-@import './global.css';
 @import './helpers/helpers.css';
 @import './header/header.css';
 @import './cover/cover.css';
 @import './lots/lots.css';
+@import './card/card.css';
 @import './about/about.css';
 @import './footer/footer.css';

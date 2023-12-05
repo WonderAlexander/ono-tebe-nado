@@ -10,3 +10,34 @@
 .mr_b {
     margin-bottom: 25px;
 }
+
+.address {
+    font-style: normal;
+    min-width: 240px;
+}
+
+.address_header {
+    grid-column-start: 6;
+    grid-column-end: 6;
+}
+
+.address-link {
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    position: relative;
+}
+
+.address-link span {
+    vertical-align: super;
+    font-size: 12px;
+}
+
+.address-text {
+    font-size: 18px;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
